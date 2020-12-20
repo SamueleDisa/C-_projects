@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="C++_projects" Database="" Version="10000">
+  <Project Name="Ex1" Path="Lab5/Ex1/Ex1.project" Active="No"/>
+  <Project Name="Ex2" Path="Lab5/Ex2/Ex2.project" Active="Yes"/>
+  <Project Name="Ex3" Path="Lab5/Ex3/Ex3.project"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="Lab5" ConfigName="Debug"/>
+      <Project Name="lab98" ConfigName="Debug"/>
+      <Project Name="Ex1" ConfigName="Debug"/>
+      <Project Name="Ex2" ConfigName="Debug"/>
+      <Project Name="Ex3" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="Lab5" ConfigName="Release"/>
+      <Project Name="lab98" ConfigName="Release"/>
+      <Project Name="Ex1" ConfigName="Release"/>
+      <Project Name="Ex2" ConfigName="Release"/>
+      <Project Name="Ex3" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
